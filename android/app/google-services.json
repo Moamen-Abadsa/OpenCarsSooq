@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "1016879536664",
+    "project_id": "opencarssooq",
+    "storage_bucket": "opencarssooq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016879536664:android:c658476d456d14e29c816d",
+        "android_client_info": {
+          "package_name": "com.iug.opencarssooq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016879536664-0r1hs3jn6a8fngdrtec8nf2mu6063u4l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iug.opencarssooq",
+            "certificate_hash": "bd21bcf851f9b1607b2a656685f4f12fc74574c8"
+          }
+        },
+        {
+          "client_id": "1016879536664-5i2ea7cl2260ams1f88g68jfroeadn5n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iug.opencarssooq",
+            "certificate_hash": "a2d3d9aa15fded5fb409346439e6f7f40ed6d5e0"
+          }
+        },
+        {
+          "client_id": "1016879536664-puum2mv6gnt2ucirvpk268536kakvqt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtfx6PdczRNRMrKsA6O9zuUnfn4jyvLFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016879536664-puum2mv6gnt2ucirvpk268536kakvqt3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1016879536664-0jacpenj7b6djs3bnsv6c321cg8eisus.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iug.opencarssooq"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
